@@ -33,6 +33,8 @@ Provides alert in an emergency case  ,
 Playing melodious music or sounds
 
 
+
+
 **Hardware requirement:-**
 
 Microprocessor - RASPBERRY PI 3 MOD B+ BCM2837B0  ,  
@@ -53,4 +55,8 @@ C language, C++ or Python  ,
 Kicad  ,
 PCB Wizard  ,
 Microsoft Azure  
+
+**Block Diagram :-**
+![image](https://user-images.githubusercontent.com/60407419/121601565-1bd48000-ca14-11eb-9fc0-f1c68dc265db.png)
+
 
