@@ -35,22 +35,22 @@ Playing melodious music or sounds
 
 **Hardware requirement:-**
 
-Microprocessor - RASPBERRY PI 3 MOD B+ BCM2837B0
-PIR sensor - HC-SR501
-USB camera and microphone - Logitech C920
-Speaker - USB mini speaker from Adafruit
-Humidity sensor - DHT11, DHT22 or AM2302.
-Electric motor - Servo Motor
-Motor Driver - L298N
-Pulse Oximeter - MAX30102
-GSM/GPRS Module - SIM868 
+Microprocessor - RASPBERRY PI 3 MOD B+ BCM2837B0  ,  
+PIR sensor - HC-SR501  ,
+USB camera and microphone  ,
+Speaker - USB mini speaker from Adafruit  ,
+Humidity sensor - DHT11  ,
+Electric motor - Servo Motor  ,
+Motor Driver - L298N  ,
+Pulse Oximeter - MAX30102  ,
+GSM/GPRS Module - SIM868  
 
 
 **Software requirement:-**
 
-Raspberry Pi OS (Raspbian) 
-C language, C++ or Python
-Kicad
-PCB Wizard
-Microsoft Azure
+Raspberry Pi OS (Raspbian) ,
+C language, C++ or Python  ,
+Kicad  ,
+PCB Wizard  ,
+Microsoft Azure  
 
