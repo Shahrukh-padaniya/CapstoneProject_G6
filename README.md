@@ -57,6 +57,7 @@ PCB Wizard  ,
 Microsoft Azure  
 
 **Block Diagram :-**
-![image](https://user-images.githubusercontent.com/60407419/121601565-1bd48000-ca14-11eb-9fc0-f1c68dc265db.png)
+![block diagram](https://user-images.githubusercontent.com/60407419/121601974-a1583000-ca14-11eb-92c0-89b4c33126b6.png)
+
 
 
