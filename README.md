@@ -21,7 +21,9 @@ Iot based cradle system enables monitoring of baby 24 hours and identifies any d
 
 These five units synchronised to work with each other and altogether makes a complete IOT based baby monitoring cradle system.
 
+
 **Features of our project:-**
+
 SIDS monitor (sudden infant death syndrome)
 Cry detection
 Wetness detection
@@ -30,7 +32,9 @@ Swing control
 Provides alert in an emergency case
 Playing melodious music or sounds
 
+
 **Hardware requirement:-**
+
 Microprocessor - RASPBERRY PI 3 MOD B+ BCM2837B0
 PIR sensor - HC-SR501
 USB camera and microphone - Logitech C920
@@ -41,7 +45,9 @@ Motor Driver - L298N
 Pulse Oximeter - MAX30102
 GSM/GPRS Module - SIM868 
 
+
 **Software requirement:-**
+
 Raspberry Pi OS (Raspbian) 
 C language, C++ or Python
 Kicad
