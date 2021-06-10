@@ -24,12 +24,12 @@ These five units synchronised to work with each other and altogether makes a com
 
 **Features of our project:-**
 
-SIDS monitor (sudden infant death syndrome)
-Cry detection
-Wetness detection
-Video Monitoring
-Swing control
-Provides alert in an emergency case
+SIDS monitor (sudden infant death syndrome)  ,
+Cry detection  ,
+Wetness detection  ,
+Video Monitoring  ,
+Swing control  ,
+Provides alert in an emergency case  ,
 Playing melodious music or sounds
 
 
